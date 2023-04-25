@@ -5,7 +5,7 @@ show_date: true
 title:  梦开始的地方
 date:   2023-04-23 19:00:00 -0600
 author:       "Allen.hu"
-img: posts/stock/abstract_7.jpeg
+img: posts/stock/IMG_3023.JPG
 mathjax: yes
 tags:
     - Free style
