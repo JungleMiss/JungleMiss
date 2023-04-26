@@ -5,7 +5,7 @@ show_date: true
 title:  浅谈软件测试(一)
 date:   2023-04-26 21:26:00 -0600
 author:       "Allen.hu"
-img: posts/stock/software_test.JPG
+img: posts/stock/software_test.jpg
 mathjax: yes
 tags:
     - Software Test
@@ -27,7 +27,7 @@ tags:
 
 所以,可以说世界上第一个BUG的发现描绘了软件测试产生的缘起,也是软件测试发展历史的一个有趣起点。这个轶事常被软件测试研究人员和从业人员故意提起,因为它让我们记住软件测试发展的起源与软件工程这门技术领域的成长轨迹。
 
-![世界上第一个BUG](https://img-blog.csdnimg.cn/20200327191228349.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTc5NzAyMg==,size_16,color_FFFFFF,t_70)
+![世界上第一个BUG](../assets/img/posts/stock/20200327191228349.png)
 
 谁是Grace Hopper？
 是与“阿兰·图灵、史蒂夫·乔布斯、比尔·盖茨”等一同入选“IT界十大最有远见的人才”的唯一一位女性—Grace Hopper
@@ -37,7 +37,7 @@ tags:
 - 主导研制出第一个商用编程语言COBOL，被称为“COBOL 之母”
 - 美国历史上第一位女性少将
 - 1980年，获得国际IEEE组织颁发的首届计算机先驱奖。
-![COBOL之母](https://img-blog.csdnimg.cn/2020040117475250.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTc5NzAyMg==,size_16,color_FFFFFF,t_70)
+![COBOL之母](../assets/img/posts/stock/gracehopper.png)
 
 ### 软件测试技术的发展历程
 
